@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Social-Platform-AI/static/css/main.454a83d1.css",
+    "main.js": "/Social-Platform-AI/static/js/main.1b9d5e94.js",
+    "static/js/453.c6c2a04e.chunk.js": "/Social-Platform-AI/static/js/453.c6c2a04e.chunk.js",
+    "index.html": "/Social-Platform-AI/index.html",
+    "main.454a83d1.css.map": "/Social-Platform-AI/static/css/main.454a83d1.css.map",
+    "main.1b9d5e94.js.map": "/Social-Platform-AI/static/js/main.1b9d5e94.js.map",
+    "453.c6c2a04e.chunk.js.map": "/Social-Platform-AI/static/js/453.c6c2a04e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.454a83d1.css",
+    "static/js/main.1b9d5e94.js"
+  ]
+}
