@@ -1,0 +1,16 @@
+{
+  "name": "ai-social-platform",
+  "version": "1.0.0",
+  "description": "AI-Powered Social Media Platform",
+  "scripts": {
+    "dev": "npm-run-all --parallel server client",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "dev:win": "start cmd /k \"cd backend && npm run dev\" && start cmd /k \"cd frontend && npm start\"",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "start": "cd backend && npm start"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
